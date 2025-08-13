@@ -62,12 +62,9 @@ It combines classic technical analysis with machine learning and statistical mod
 This project is for **educational purposes only** and is **not financial advice**.  
 Trading in financial markets carries significant risk, and past performance does not guarantee future results.
 
----
-
-## 📄 License
-MIT License – see `LICENSE` file for details.
 
 ---
 
 ## 📬 Contact
-Created by [Your Name] – [LinkedIn](https://www.linkedin.com/in/your-link) | [GitHub](https://github.com/your-username)
+Created by Cam Lipp – https://www.linkedin.com/in/cameron-lipp
+
