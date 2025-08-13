@@ -3,11 +3,6 @@
 A MATLAB-based interactive tool that forecasts stock market direction, visualizes technical indicators, and backtests trading strategies.  
 It combines classic technical analysis with machine learning and statistical modeling, including an ensemble model for more robust predictions.
 
----
-
-## 📸 Preview
-![Forecast Chart Example](preview.png)  
-*Example forecast chart with SMA, Bollinger Bands, RSI, and flip points.*
 
 ---
 
@@ -67,4 +62,5 @@ Trading in financial markets carries significant risk, and past performance does
 
 ## 📬 Contact
 Created by Cam Lipp – https://www.linkedin.com/in/cameron-lipp
+
 
